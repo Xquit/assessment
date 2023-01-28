@@ -1,0 +1,36 @@
+
+body {
+    background-color: rgb(255, 236, 62);
+}
+
+
+main {
+
+    width: auto;
+    height: auto;
+}
+
+h1 {
+    font-size: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: antiquewhite;
+}
+
+
+
+h1, h2, footer {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.nav1 {
+    text-align: center;
+    display: inline-block;  
+    height: 100%;  
+
+}
+
+.simple {
+    text-align:center;
+}
+
